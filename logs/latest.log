@@ -1,0 +1,328 @@
+[18:49:10] [main/INFO]: ModLauncher running: args [--username, yArees, --version, forge-47.3.0, --gameDir, C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network, --assetsDir, C:\Users\paulo\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, a59bcf5397264f19898337cf062dea74, --accessToken, ????????, --clientId, ODI4MDFkNjItNjdhMi00ZGE5LWJiZmQtZjcyZjYwMDY0OGEw, --xuid, 2535464139889123, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\paulo\curseforge\minecraft\Install\quickPlay\java\1742496548714.json, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[18:49:10] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[18:49:14] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[18:49:14] [main/INFO]: Trying GL version 4.6
+[18:49:15] [main/INFO]: Requested GL version 4.6 got version 4.6
+[18:49:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/paulo/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[18:49:15] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2 GL version 4.6.0 NVIDIA 566.07, NVIDIA Corporation
+[18:49:15] [main/INFO]: Found mod file AdvancedAE-1.0.13-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ae2wtlib-15.2.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file angelring-1.20.1-2.3.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Apotheosis-1.20.1-7.4.3.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ApothicAttributes-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Applied-Botanics-forge-1.5.0.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Applied-Mekanistics-1.4.2.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file appliedenergistics2-forge-15.2.16.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file armourersworkshop-forge-1.20.1-2.1.4.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ars_elemental-1.20.1-0.6.7.7.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ars_nouveau-1.20.1-4.12.6-all.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file arseng-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file artifacts-forge-9.5.13.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.10-all.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file betterfpsdist-1.20.1-6.0.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file bloodmagic-1.20.1-3.3.3-45.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Botania-1.20.1-446-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file BotanyPots-Forge-1.20.1-13.0.40.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file BotanyPotsTiers-Forge-1.20.1-6.0.2.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file BrandonsCore-1.20.1-3.2.1.302-universal.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.4.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file CodeChickenLib-1.20.1-4.4.0.516-universal.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file cosmeticarmorreworked-1.20.1-v1a.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file CraftTweaker-forge-1.20.1-14.0.46.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file create-1.20.1-0.5.1.j.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file createaddition-1.20.1-1.2.4e.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.13.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file cupboard-1.20.1-2.7.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file curios-forge-5.11.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file DarkUtilities-Forge-1.20.1-17.0.5.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Draconic-Additions-1.20.1-2.4.0.4-universal.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Draconic-Evolution-1.20.1-3.1.2.598-universal.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file dummmmmmy-1.20-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file durabilitytooltip-1.1.5-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file easy-villagers-forge-1.20.1-1.1.23.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file elevatorid-1.20.1-lex-1.9.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file EnderIO-1.20.1-6.2.7-beta-all.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file EnderStorage-1.20.1-2.11.0.188-universal.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ExtendedCrafting-1.20.1-6.0.8.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ExtremeReactors2-1.20.1-2.0.90.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file flib-1.20.1-0.0.14.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file FluxNetworks-1.20.1-7.2.1.15.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file forbidden_arcanus-1.20.1-2.2.6.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ftb-library-forge-2001.2.7.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ftb-teams-forge-2001.3.0.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file fusion-1.1.1-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Glodium-1.20-1.5-forge.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file industrial-foregoing-1.20.1-3.5.19.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ironchest-1.20.1-14.4.4.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ironfurnaces-1.20.1-4.1.6.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.105.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file journeymap-1.20.1-5.10.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file JourneyMap-Teams-forge-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file LibX-1.20.1-5.0.12.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file lootr-forge-1.20-0.7.35.90.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file mcjtylib-1.20-8.0.6.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file megacells-forge-2.4.5-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Mekanism-1.20.1-10.4.13.69.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file MekanismGenerators-1.20.1-10.4.13.69.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file MekanismTools-1.20.1-10.4.13.69.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file mifa-forge-1.20.x-1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file mob_grinding_utils-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file modonomicon-1.20.1-forge-1.77.4.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file moonlight-1.20-2.13.45-forge.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file MysticalAdaptations-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file MysticalAgradditions-1.20.1-7.0.7.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file MysticalAgriculture-1.20.1-7.0.15.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file MythicBotany-1.20.1-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file occultism-1.20.1-1.140.2.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file oreexcavation-1.13.174.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Patchouli-1.20.1-84-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file PigPen-Forge-1.20.1-15.0.2.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file pipez-forge-1.20.1-1.2.16.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Placebo-1.20.1-8.6.2.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Powah-5.0.8.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file pylons-1.20.1-4.2.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file rechiseled-1.1.6-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file rftoolsbase-1.20-5.0.5.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file rftoolsutility-1.20-6.0.6.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.6.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Runelic-Forge-1.20.1-18.0.2.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file SimpleStorageNetwork-1.20.1-1.11.3.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file SmartBrainLib-forge-1.20.1-1.15.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.21.2.1163.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file sophisticatedcore-1.20.1-1.0.8.828.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file Steam_Rails-1.6.7+forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file StorageDrawers-1.20.1-12.9.13.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file supermartijn642corelib-1.1.18-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file titanium-1.20.1-3.8.32.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file torchmaster-20.1.9.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file trashcans-1.0.18b-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file valhelsia_core-forge-1.20.1-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file voicechat-forge-1.20.1-2.5.26.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file waystones-forge-1.20-14.1.6.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file xnet-1.20-6.1.6.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:15] [main/INFO]: Found mod file ZeroCore2-1.20.1-2.1.47.jar of type MOD with provider {mods folder locator at C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods}
+[18:49:16] [main/WARN]: Mod file C:\Users\paulo\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[18:49:16] [main/WARN]: Mod file C:\Users\paulo\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[18:49:16] [main/WARN]: Mod file C:\Users\paulo\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[18:49:16] [main/WARN]: Mod file C:\Users\paulo\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[18:49:16] [main/INFO]: Found mod file fmlcore-1.20.1-47.3.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d48bd85
+[18:49:16] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d48bd85
+[18:49:16] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d48bd85
+[18:49:16] [main/INFO]: Found mod file mclanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d48bd85
+[18:49:16] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d48bd85
+[18:49:16] [main/INFO]: Found mod file forge-1.20.1-47.3.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d48bd85
+[18:49:16] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[18:49:16] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\mods\geckolib-forge-1.20.1-4.7.jar
+[18:49:16] [main/INFO]: Found 11 dependencies adding them to mods collection
+[18:49:16] [main/INFO]: Found mod file GraphLib3-3.0.7.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file mixinextras-forge-0.3.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file MixinExtras-0.3.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file kuma-api-forge-20.1.9-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file commonmark-ext-gfm-strikethrough-0.24.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file commonmark-0.24.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file expandability-forge-9.0.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file commonmark-ext-ins-0.24.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file flywheel-forge-1.20.1-0.6.11-13.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:16] [main/INFO]: Found mod file Registrate-MC1.20-1.3.11.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@45bf6f39
+[18:49:19] [main/INFO]: Compatibility level set to JAVA_17
+[18:49:19] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.3.0, --gameDir, C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network, --assetsDir, C:\Users\paulo\curseforge\minecraft\Install\assets, --uuid, a59bcf5397264f19898337cf062dea74, --username, yArees, --assetIndex, 5, --accessToken, ????????, --clientId, ODI4MDFkNjItNjdhMi00ZGE5LWJiZmQtZjcyZjYwMDY0OGEw, --xuid, 2535464139889123, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\paulo\curseforge\minecraft\Install\quickPlay\java\1742496548714.json]
+[18:49:19] [main/WARN]: Reference map 'bloodmagic.refmap.json' for bloodmagic.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:49:19] [main/WARN]: Reference map 'modonomicon.refmap.json' for modonomicon.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:49:19] [main/WARN]: Reference map 'modonomicon.refmap.json' for modonomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:49:19] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:49:19] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:49:20] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[18:49:20] [main/WARN]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[18:49:20] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:49:20] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:49:20] [main/WARN]: Error loading class: org/violetmoon/quark/content/client/tooltip/AttributeTooltips (java.lang.ClassNotFoundException: org.violetmoon.quark.content.client.tooltip.AttributeTooltips)
+[18:49:21] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[18:49:21] [main/INFO]: Loaded config for: betterfpsdist.json
+[18:49:21] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages)
+[18:49:21] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages was not found betterfpsdist.mixins.json:SodiumGameOptionPagesMixin
+[18:49:21] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/occlusion/OcclusionCuller (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.occlusion.OcclusionCuller)
+[18:49:21] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.occlusion.OcclusionCuller was not found betterfpsdist.mixins.json:Sodiummixin
+[18:49:21] [main/WARN]: Error loading class: me/shedaniel/rei/RoughlyEnoughItemsCoreClient (java.lang.ClassNotFoundException: me.shedaniel.rei.RoughlyEnoughItemsCoreClient)
+[18:49:21] [main/WARN]: Error loading class: com/replaymod/replay/ReplayHandler (java.lang.ClassNotFoundException: com.replaymod.replay.ReplayHandler)
+[18:49:21] [main/WARN]: Error loading class: net/optifine/shaders/Shaders (java.lang.ClassNotFoundException: net.optifine.shaders.Shaders)
+[18:49:21] [main/WARN]: Error loading class: net/coderbot/iris/pipeline/newshader/ExtendedShader (java.lang.ClassNotFoundException: net.coderbot.iris.pipeline.newshader.ExtendedShader)
+[18:49:21] [main/WARN]: Error loading class: net/irisshaders/iris/pipeline/programs/ExtendedShader (java.lang.ClassNotFoundException: net.irisshaders.iris.pipeline.programs.ExtendedShader)
+[18:49:21] [main/WARN]: Error loading class: yesman/epicfight/client/renderer/patched/entity/PatchedLivingEntityRenderer (java.lang.ClassNotFoundException: yesman.epicfight.client.renderer.patched.entity.PatchedLivingEntityRenderer)
+[18:49:21] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[18:49:23] [main/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Z)V
+[18:49:23] [main/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[18:49:23] [main/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[18:49:23] [main/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[18:49:23] [main/INFO]:   BeforeConstant found INTEGER constant: value = 60, intValue = null
+[18:49:23] [main/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[18:49:23] [main/INFO]:       BeforeConstant found IntInsn 60
+[18:49:23] [main/INFO]: Patching EffectRenderingInventoryScreen#renderEffects
+[18:49:23] [main/INFO]: Patching EffectRenderingInventoryScreen#renderEffects
+[18:49:24] [pool-4-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[18:49:26] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:49:26] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[18:49:26] [pool-4-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[18:49:27] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 130 milliseconds
+[18:49:28] [pool-4-thread-1/INFO]: Patching FishingHook#catchingFish
+[18:49:28] [pool-4-thread-1/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[18:49:28] [pool-4-thread-1/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[18:49:30] [Render thread/WARN]: Assets URL 'union:/C:/Users/paulo/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23364!/assets/.mcassetsroot' uses unexpected schema
+[18:49:30] [Render thread/WARN]: Assets URL 'union:/C:/Users/paulo/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23364!/data/.mcassetsroot' uses unexpected schema
+[18:49:30] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:49:30] [Render thread/INFO]: Setting user: yArees
+[18:49:30] [Render thread/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Lnet/minecraft/client/GuiMessageTag;)V
+[18:49:30] [Render thread/INFO]:   BeforeConstant found STRING constant: value = , stringValue = null
+[18:49:30] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[18:49:30] [Render thread/INFO]:       BeforeConstant found LdcInsn 
+[18:49:30] [Render thread/INFO]:   BeforeConstant found STRING constant: value = \\r, stringValue = null
+[18:49:30] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[18:49:30] [Render thread/INFO]:       BeforeConstant found LdcInsn \\r
+[18:49:30] [Render thread/INFO]:   BeforeConstant found STRING constant: value = 
+, stringValue = null
+[18:49:30] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 2
+[18:49:30] [Render thread/INFO]:       BeforeConstant found LdcInsn 
+
+[18:49:30] [Render thread/INFO]:   BeforeConstant found STRING constant: value = \\n, stringValue = null
+[18:49:30] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 3
+[18:49:30] [Render thread/INFO]:       BeforeConstant found LdcInsn \\n
+[18:49:30] [Render thread/INFO]:   BeforeConstant found CLASS constant: value = Ljava/lang/String;, typeValue = null
+[18:49:30] [Render thread/INFO]:   BeforeConstant found STRING constant: value = [{}] [CHAT] {}, stringValue = null
+[18:49:30] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 4
+[18:49:30] [Render thread/INFO]:       BeforeConstant found LdcInsn [{}] [CHAT] {}
+[18:49:30] [Render thread/INFO]:   BeforeConstant found STRING constant: value = [CHAT] {}, stringValue = null
+[18:49:30] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 5
+[18:49:30] [Render thread/INFO]:       BeforeConstant found LdcInsn [CHAT] {}
+[18:49:30] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[18:49:30] [modloading-worker-0/INFO]: Loading config: C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\config\botanypotstiers-common.toml
+[18:49:30] [modloading-worker-0/INFO]: Built config: C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\config\botanypotstiers-common.toml
+[18:49:30] [modloading-worker-0/INFO]: Loaded config: C:\Users\paulo\curseforge\minecraft\Instances\Zyra Network\config\botanypotstiers-common.toml
+[18:49:30] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[18:49:30] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[18:49:30] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[18:49:30] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[18:49:30] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[18:49:30] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[18:49:30] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[18:49:30] [modloading-worker-0/INFO]: Scanning classes for industrialforegoing
+[18:49:30] [modloading-worker-0/INFO]: Found FeaturePluginInstance for class PatchouliPlugin for plugin patchouli
+[18:49:30] [modloading-worker-0/INFO]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
+[18:49:31] [modloading-worker-0/INFO]: Constructed class PatchouliPlugin for plugin patchouli for mod industrialforegoing
+[18:49:31] [modloading-worker-0/INFO]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
+[18:49:31] [modloading-worker-0/INFO]: Executing phase CONSTRUCTION for plugin class PatchouliPlugin
+[18:49:31] [modloading-worker-0/INFO]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
+[18:49:31] [modloading-worker-0/INFO]: Executing phase PRE_INIT for plugin class PatchouliPlugin
+[18:49:31] [modloading-worker-0/INFO]: Executing phase PRE_INIT for plugin class CuriosPlugin
+[18:49:31] [modloading-worker-0/INFO]: Initializing Update Checker...
+[18:49:31] [ Iron Furnaces Update Checker/INFO]: Starting Update Check...
+[18:49:31] [modloading-worker-0/INFO]: Scanning classes for mifa
+[18:49:31] [modloading-worker-0/INFO]: Loaded config for: cupboard.json
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_nbt
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id powah:packet
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_config
+[18:49:31] [ Iron Furnaces Update Checker/INFO]: Update Check done!
+[18:49:31] [ Iron Furnaces Update Checker/INFO]: Iron Furnaces is up to date!
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_teams
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_message_history
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_settings_response
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:send_message
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:send_message_response
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_presence
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:create_party
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:player_gui_operation
+[18:49:31] [modloading-worker-0/INFO]: Executing phase INIT for plugin class PatchouliPlugin
+[18:49:31] [modloading-worker-0/INFO]: Executing phase INIT for plugin class CuriosPlugin
+[18:49:31] [modloading-worker-0/WARN]: @Inject(@At("INVOKE")) Shift.BY=5 on attributeslib.mixins.json:client.ClientPacketListenerMixin::handler$zhg000$apoth_postAttrChangedEvent exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[18:49:31] [modloading-worker-0/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[18:49:31] [modloading-worker-0/INFO]: Registering S2C receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[18:49:31] [modloading-worker-0/INFO]: Executing phase POST_INIT for plugin class PatchouliPlugin
+[18:49:31] [modloading-worker-0/INFO]: Executing phase POST_INIT for plugin class CuriosPlugin
+[18:49:31] [modloading-worker-0/INFO]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[18:49:31] [modloading-worker-0/INFO]: MinecraftForge v47.3.0 Initialized
+[18:49:31] [modloading-worker-0/INFO]: Knock Knock...
+[18:49:31] [modloading-worker-0/WARN]: Reactor detonation initiated.
+[18:49:31] [modloading-worker-0/INFO]: Wait... NO! What?
+[18:49:31] [modloading-worker-0/INFO]: Stop That! That's not how this works!
+[18:49:31] [modloading-worker-0/WARN]: Calculating explosion ETA
+[18:49:31] [modloading-worker-0/INFO]: Ahh... NO... NONONO! DONT DO THAT!!! STOP THIS NOW!
+[18:49:31] [modloading-worker-0/WARN]: **Explosion Imminent!!!**
+[18:49:31] [modloading-worker-0/INFO]: Well...... fork...
+[18:49:31] [modloading-worker-0/INFO]: Hey, Brandon's Core!  How's it going?
+[18:49:31] [modloading-worker-0/INFO]: Oh hey, doin good. just looking for DE.
+[18:49:31] [modloading-worker-0/INFO]: Yeah, just finished talking to them.  They're through the door behind me.  Speaking of locating mods, have you seen Curios?
+[18:49:31] [modloading-worker-0/INFO]: Yup, just go up and to the left a bit, cant miss it
+[18:49:31] [modloading-worker-0/INFO]: Thanks!  Just be careful, DE seems a bit...  Unstable.
+[18:49:31] [modloading-worker-0/INFO]: Sure sure....
+[18:49:32] [modloading-worker-0/INFO]: Sending ConfigManager...
+[18:49:32] [modloading-worker-0/INFO]: Sending ConfigManager took 7.194 ms
+[18:49:32] [modloading-worker-0/INFO]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[18:49:32] [modloading-worker-0/INFO]: Scanning classes for titanium
+[18:49:32] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[18:49:32] [modloading-worker-0/INFO]: Registered plugin: com.focamacho.mysticaladaptations.lib.ModCorePlugin
+[18:49:32] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[18:49:32] [modloading-worker-0/INFO]: Loaded 3 plugins
+[18:49:32] [modloading-worker-0/INFO]: No shaders mod detected.
+[18:49:33] [modloading-worker-0/INFO]: Registering mod: pylons
+[18:49:33] [modloading-worker-0/INFO]: Registered 1 network packets
+[18:49:33] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[18:49:33] [modloading-worker-0/INFO]: Initialised items.
+[18:49:33] [modloading-worker-0/INFO]: Initialised blocks.
+[18:49:33] [modloading-worker-0/INFO]: Initialised block entities.
+[18:49:33] [modloading-worker-0/INFO]: Initialised Applied Botanics integration.
+[18:49:33] [modloading-worker-0/INFO]: Initialised Applied Mekanistics integration.
+[18:49:33] [modloading-worker-0/INFO]: Initialised Ars Énergistique integration.
+[18:49:33] [modloading-worker-0/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:49:33] [modloading-worker-0/INFO]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:49:33] [modloading-worker-0/INFO]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:49:34] [modloading-worker-0/INFO]: Registered bogey styles from railways
+[18:49:34] [modloading-worker-0/INFO]: Registering data fixers
+[18:49:34] [Railways Datafixer Bootstrap/INFO]: 2 Datafixer optimizations took 1 milliseconds
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for Hex Casting
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for Oh The Biomes You'll Go
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for Blue Skies
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for Twilight Forest
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for Biomes O' Plenty
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for Nature's Spirit
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for Dreams and Desires
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for Quark
+[18:49:34] [modloading-worker-0/INFO]: Registering tracks for TerraFirmaCraft
+[18:49:34] [modloading-worker-0/INFO]: Loaded JourneyMap plugin
+[18:49:39] [Render thread/WARN]: Registry minecraft:menu: The object net.minecraft.world.inventory.MenuType@1938d609 has been registered twice for the same name ae2:portable_mana_cell.
+[18:49:39] [Render thread/WARN]: Failed to find custom wood type ars_nouveau:yellow_archwood
+[18:49:39] [Render thread/INFO]: Initialized block sets in 21ms
+[18:49:40] [Render thread/INFO]: Registering C2S receiver with id ae2wtlib:cycle_terminal
+[18:49:40] [Render thread/WARN]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[18:49:43] [Render thread/WARN]: defineId called for: class com.klikli_dev.occultism.common.entity.spirit.DjinniEntity from class com.klikli_dev.occultism.common.entity.spirit.FoliotEntity
+[18:49:43] [Render thread/INFO]: Block color registration complete.
+[18:49:43] [Render thread/INFO]: Item color registration complete.
+[18:49:44] [Render thread/INFO]: Registered Particle Factories
+[18:49:45] [Render thread/INFO]: Registering Keybinds
+[18:49:45] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources, Moonlight Mods Dynamic Assets
+[18:49:45] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Moonlight Mods Dynamic Assets (moonlight) in: 4 ms

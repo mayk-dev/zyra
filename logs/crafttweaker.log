@@ -1,0 +1,18 @@
+[18:49:31.981][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[18:49:32.018][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[18:49:32.111][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[18:49:32.115][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[18:49:32.117][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin mekanism:crt_plugin
+[18:49:34.108][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[18:49:34.109][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.46'
+[18:49:34.109][INFO][CraftTweaker]: - 'extendedcrafting' at version '6.0.8'
+[18:49:34.111][INFO][CraftTweaker]: - 'mekanism' at version '10.4.13'
+[18:49:34.111][INFO][CraftTweaker]: - 'mysticalagriculture' at version '7.0.15'
+[18:49:41.534][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'mekanismcontent'
+[18:49:41.779][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[18:49:42.556][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:49:42.763][INFO][CraftTweaker-ZenCode]: Execution for loader 'mekanismcontent' completed successfully
+[18:49:42.764][INFO][Mekanism]: Registering 0 custom gases.
+[18:49:42.768][INFO][Mekanism]: Registering 0 custom infuse types.
+[18:49:42.796][INFO][Mekanism]: Registering 0 custom pigments.
+[18:49:42.809][INFO][Mekanism]: Registering 0 custom slurries.
